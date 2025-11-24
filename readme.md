@@ -1,7 +1,3 @@
-Below is a complete **Markdown (.md) file** version of your report.
-You can copy-paste it into a file named **`browser_session_restore_report.md`**.
-
----
 
 ````md
 # 🔍 Practical Report  
