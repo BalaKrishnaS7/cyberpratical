@@ -58,8 +58,8 @@ Session restore files use the **compressed `.jsonlz4` format**, so they must be 
 3. Simulated a crash to trigger session restore creation:
    ```bash
    pkill firefox
-````
-````
+
+
 ## **5.2 Locating session restore files**
 
 ```bash
